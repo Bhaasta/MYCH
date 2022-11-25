@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "605135508361",
+    "project_id": "mychat-31bf1",
+    "storage_bucket": "mychat-31bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605135508361:android:a891f76a8704d1a410c758",
+        "android_client_info": {
+          "package_name": "pl.bhaasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605135508361-frofd58c6p1vv2v66j7vekpdv1e2583g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2d5PnevehcVuwhNa6zGbb6rUO7J8sIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605135508361-frofd58c6p1vv2v66j7vekpdv1e2583g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605135508361:android:83961105844d449d10c758",
+        "android_client_info": {
+          "package_name": "pl.bhaasta.MyChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605135508361-frofd58c6p1vv2v66j7vekpdv1e2583g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC2d5PnevehcVuwhNa6zGbb6rUO7J8sIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605135508361-frofd58c6p1vv2v66j7vekpdv1e2583g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
